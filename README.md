@@ -1,4 +1,4 @@
-# sportapp
+# VUE sportsapp
 
 ## Project setup
 ```
